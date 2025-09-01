@@ -82,7 +82,7 @@ console.log(average(marr));
 
 
 // ex 4
-/*
+
 let randarr = [1,2,3,4,1,5,3,6,3,2,4,5,1,3,5,3,6,3,2,4,5,6,7,8,9,0];
 let focusnum = 3;
 let appearance = {}
@@ -99,4 +99,3 @@ function countnumonarr (randarr, focusnum){
 }
 
 countnumonarr(randarr, focusnum);
-*/
